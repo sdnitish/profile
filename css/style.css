@@ -149,7 +149,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 .home-video-utube{
   width:100%;
-  height:500px;
+  height:518px;
 }
 @media (max-width: 700px) {
   .about-img{
@@ -159,7 +159,7 @@ h1,h2,h3,h4,h5,h6,p{
    }
   .home-video-utube{
   width:100%;
-  height:270px;
+  height:184px;
 }
 }
 /*===================== Progress Bar ====================*/
